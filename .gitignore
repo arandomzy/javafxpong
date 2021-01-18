@@ -1,0 +1,7 @@
+.settings
+target
+debug.log
+.project
+.classpath
+src/Premade
+bin
